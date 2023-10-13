@@ -2,6 +2,15 @@
 
 A new Flutter project.
 
+## Features
+- read free books.
+- error handling incase of wrong inputs or technical issue.
+- Searching for any book you want.
+- Bloc as state management.
+- using pagination.
+- using hive as local database 
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
